@@ -57,7 +57,7 @@ cd TPMNet
 ./train.sh Deraining/Options/TPMNet_config.yml
 ```
 
-**Note:** The above training script uses 1 GPU by default. To use any other number of GPUs, modify [TPMNet/train.sh](../train.sh) and [Deraining/Options/TPMNet_config.yml](Deraining/Options/TPMNet_config.yml)
+**Note:** The above training script uses 1 GPU by default. To use any other number of GPUs, modify [TPMNet/train.sh](TPMNet/train.sh) and [Deraining/Options/TPMNet_config.yml](Deraining/Options/TPMNet_config.yml)
 
 ## Evaluation
 
