@@ -6,7 +6,7 @@
 
 ## Network Architecture
 
-<img src = "https://imgur.com/MohHjAP.jpg"> 
+<img src = "https://imgur.com/YB1opiX"> 
 
 ## Installation 
 
